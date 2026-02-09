@@ -6,7 +6,7 @@ PathPulse v2.2 is a high-performance command-line interface (CLI) tool designed 
 
 > **💻 Platform Support:** This tool is designed exclusively for **Windows** (CMD/PowerShell).
 
-> **⚙️ Requirement:** .NET Framework 4.8 or higher (Included by default in modern Windows 10/11).
+> **⚙️ Requirement:** .NET Framework 4.8 (Included by default in modern Windows 10/11).
 
 ## ✨ Features
 * **Windows Optimized:** Native performance on Windows network stacks.
