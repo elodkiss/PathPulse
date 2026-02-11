@@ -35,7 +35,7 @@ the SHA-256 checksum below:
 
 > **Note:** As this is a new release, Windows SmartScreen or Chrome might 
 > flag it as "unrecognized". This is normal for indie software. 
-> You can check the VirusTotal scan here: [Link to your scan]
+> You can check the VirusTotal scan here: [https://www.virustotal.com/gui/file/1e7b0e2e7e3dfdc608dd20c60f8d1a100c3a17ac772b979315fc12b164f3e47b]
 
 
 ## ⚖️ License
