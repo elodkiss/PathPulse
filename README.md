@@ -31,11 +31,11 @@ PathPulse v2.2 is a high-performance command-line interface (CLI) tool designed 
 To ensure the file is authentic and has not been tampered with, you can verify
 the SHA-256 checksum below:
 
-**SHA-256:** `1e7b0e2e7e3dfdc608dd20c60f8d1a100c3a17ac772b979315fc12b164f3e47b`
+**SHA-256:** `d43d04fadaed32b82a3f9de34696b748fda4114c916517d097a1cd9ad2b9a114`
 
-> **Note:** As this is a new release, Windows SmartScreen or Chrome might 
+> **Note:** As this is a newly compiled release, Windows SmartScreen or Chrome might 
 > flag it as "unrecognized". This is normal for indie software. 
-> You can check the VirusTotal scan here: [View Report](https://www.virustotal.com/gui/file/1e7b0e2e7e3dfdc608dd20c60f8d1a100c3a17ac772b979315fc12b164f3e47b)
+> You can check the VirusTotal scan here: [View Scan Report](https://www.virustotal.com/gui/file/d43d04fadaed32b82a3f9de34696b748fda4114c916517d097a1cd9ad2b9a114)
 
 
 ## ⚖️ License
