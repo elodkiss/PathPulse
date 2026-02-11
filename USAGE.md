@@ -108,7 +108,7 @@ Features & Logic:
     nodes remain aligned.
   * Advanced Cancellation (4-Step Rule):
     Prevents accidental exit via a multi-press Ctrl+C logic.
-    Steps: Warning ␦ 2 more times ␦ 1 more time ␦ Graceful Shutdown.
+    Steps: Request confirmation -> 2 more times -> 1 more -> Graceful Shutdown.
     A 5th press acts as a Force Quit (Emergency Override).
   * Smart Naming: Fully case-insensitive parameters and tags ({T}, {DT}),
     while preserving the original casing of your custom text.
@@ -247,8 +247,8 @@ Funkciók és logika:
     összehangolásához.
   * Fejlett megszakítási logika (4 lépéses szabály): Véletlen kilépés
     megakadályozása többszörös Ctrl+C lenyomással.
-    Lépések: Figyelmeztetés ␦ még 2x ␦ még 1x ␦ Szabályos leállás.
-    Az 5. lenyomás Erőltetett kilépésként (Vészhelyzeti felülbírálás) működik.
+    Lépések: Megerősítés kérése -> még 2x -> még 1x -> Szabályos leállás.
+    Az 5. lenyomás erőltetett kilépésként (vészhelyzeti felülbírálás) működik.
   * Intelligens névkezelés: A paraméterek és tagek nem érzékenyek a kis- és
     nagybetűkre, miközben az egyéni szövegek eredeti formátuma megmarad.
   * Színkódolt konzol: Valós idejű vizuális visszajelzés információk (kék),
