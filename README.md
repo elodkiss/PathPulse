@@ -27,6 +27,17 @@ PathPulse v2.2 is a high-performance command-line interface (CLI) tool designed 
 ./PathPulse -helphu
 ```
 
+### 🛡️ Security & Verification
+To ensure the file is authentic and has not been tampered with, you can verify
+the SHA-256 checksum below:
+
+**SHA-256:** `1e7b0e2e7e3dfdc608dd20c60f8d1a100c3a17ac772b979315fc12b164f3e47b`
+
+> **Note:** As this is a new release, Windows SmartScreen or Chrome might 
+> flag it as "unrecognized". This is normal for indie software. 
+> You can check the VirusTotal scan here: [Link to your scan]
+
+
 ## ⚖️ License
 This software is closed-source. It is provided free of charge and may be used and redistributed freely in its original, unmodified executable form.
 
